@@ -2,7 +2,11 @@
 
 
 
-    "버전": "1.0.3",
+    "버전": "1.0.4",
+
+
+
+
 
 
 
@@ -10,7 +14,15 @@
 
 
 
+
+
+
+
         "이미지": {
+
+
+
+
 
 
 
@@ -18,7 +30,15 @@
 
 
 
+
+
+
+
             "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/zenny.png"
+
+
+
+
 
 
 
@@ -26,11 +46,23 @@
 
 
 
+
+
+
+
         "재료": [
 
 
 
+
+
+
+
             {
+
+
+
+
 
 
 
@@ -38,7 +70,15 @@
 
 
 
+
+
+
+
                 "수량": 3052997,
+
+
+
+
 
 
 
@@ -46,7 +86,15 @@
 
 
 
+
+
+
+
                 "아이콘": {
+
+
+
+
 
 
 
@@ -54,7 +102,15 @@
 
 
 
+
+
+
+
                     "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
+
+
+
+
 
 
 
@@ -62,11 +118,23 @@
 
 
 
+
+
+
+
             },
 
 
 
+
+
+
+
             {
+
+
+
+
 
 
 
@@ -74,7 +142,15 @@
 
 
 
+
+
+
+
                 "수량": 122,
+
+
+
+
 
 
 
@@ -82,7 +158,15 @@
 
 
 
+
+
+
+
                 "아이콘": {
+
+
+
+
 
 
 
@@ -90,7 +174,15 @@
 
 
 
+
+
+
+
                     "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_class_booster.png"
+
+
+
+
 
 
 
@@ -98,11 +190,23 @@
 
 
 
+
+
+
+
             },
 
 
 
+
+
+
+
             {
+
+
+
+
 
 
 
@@ -110,7 +214,15 @@
 
 
 
+
+
+
+
                 "수량": 60,
+
+
+
+
 
 
 
@@ -118,7 +230,15 @@
 
 
 
+
+
+
+
                 "아이콘": {
+
+
+
+
 
 
 
@@ -126,7 +246,15 @@
 
 
 
+
+
+
+
                     "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/lavender.png"
+
+
+
+
 
 
 
@@ -134,11 +262,23 @@
 
 
 
+
+
+
+
             },
 
 
 
+
+
+
+
             {
+
+
+
+
 
 
 
@@ -146,7 +286,15 @@
 
 
 
+
+
+
+
                 "수량": 46,
+
+
+
+
 
 
 
@@ -154,7 +302,15 @@
 
 
 
+
+
+
+
                 "아이콘": {
+
+
+
+
 
 
 
@@ -162,7 +318,15 @@
 
 
 
+
+
+
+
                     "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/platinum_heart.png"
+
+
+
+
 
 
 
@@ -170,11 +334,23 @@
 
 
 
+
+
+
+
             },
 
 
 
+
+
+
+
             {
+
+
+
+
 
 
 
@@ -182,7 +358,15 @@
 
 
 
+
+
+
+
                 "수량": 26,
+
+
+
+
 
 
 
@@ -190,7 +374,15 @@
 
 
 
+
+
+
+
                 "아이콘": {
+
+
+
+
 
 
 
@@ -198,7 +390,15 @@
 
 
 
+
+
+
+
                     "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/otherworld_eye.png"
+
+
+
+
 
 
 
@@ -206,11 +406,23 @@
 
 
 
+
+
+
+
             },
 
 
 
+
+
+
+
             {
+
+
+
+
 
 
 
@@ -218,7 +430,15 @@
 
 
 
+
+
+
+
                 "수량": 25,
+
+
+
+
 
 
 
@@ -226,7 +446,15 @@
 
 
 
+
+
+
+
                 "아이콘": {
+
+
+
+
 
 
 
@@ -234,7 +462,15 @@
 
 
 
+
+
+
+
                     "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/melody_seed.png"
+
+
+
+
 
 
 
@@ -242,11 +478,23 @@
 
 
 
+
+
+
+
             },
 
 
 
+
+
+
+
             {
+
+
+
+
 
 
 
@@ -254,7 +502,15 @@
 
 
 
+
+
+
+
                 "수량": 28,
+
+
+
+
 
 
 
@@ -262,7 +518,15 @@
 
 
 
+
+
+
+
                 "아이콘": {
+
+
+
+
 
 
 
@@ -270,7 +534,15 @@
 
 
 
+
+
+
+
                     "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/melody_sprout.png"
+
+
+
+
 
 
 
@@ -278,11 +550,23 @@
 
 
 
+
+
+
+
             },
 
 
 
+
+
+
+
             {
+
+
+
+
 
 
 
@@ -290,7 +574,15 @@
 
 
 
+
+
+
+
                 "수량": 55,
+
+
+
+
 
 
 
@@ -298,7 +590,15 @@
 
 
 
+
+
+
+
                 "아이콘": {
+
+
+
+
 
 
 
@@ -306,7 +606,15 @@
 
 
 
+
+
+
+
                     "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/melody_leaf.png"
+
+
+
+
 
 
 
@@ -314,11 +622,23 @@
 
 
 
+
+
+
+
             },
 
 
 
+
+
+
+
             {
+
+
+
+
 
 
 
@@ -326,7 +646,15 @@
 
 
 
+
+
+
+
                 "수량": 67,
+
+
+
+
 
 
 
@@ -334,7 +662,15 @@
 
 
 
+
+
+
+
                 "아이콘": {
+
+
+
+
 
 
 
@@ -342,7 +678,15 @@
 
 
 
+
+
+
+
                     "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/melody_blossom.png"
+
+
+
+
 
 
 
@@ -350,27 +694,55 @@
 
 
 
+
+
+
+
             },
+
+
 
             
 
+
+
             {
+
+
 
               "이름": "테스트 아이템",
 
+
+
               "수량": 999,
+
+
 
               "종류": "소모품",
 
+
+
               "아이콘": {
+
+
 
                   "파일": "items/test_item.png",
 
+
+
                   "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/test_item.png"
+
+
 
               }
 
+
+
           }
+
+
+
+
 
 
 
@@ -378,7 +750,15 @@
 
 
 
+
+
+
+
     }
+
+
+
+
 
 
 
