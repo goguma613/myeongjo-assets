@@ -214,87 +214,95 @@
 
     },
 
-    "페비": {
-        "이미지": {
-            "파일": "characters/feby.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/feby.png"
-        },
-        "재료": [
-            {
-                "클램 코인": {
-                    "수량": 3052997,
-                    "종류": "재화",
-                    "아이콘": {
-                        "파일": "items/clam_coin.png",
-                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
-                    }
-                },
-                "특급 공명 촉진제": {
-                    "수량": 122,
-                    "종류": "소모품",
-                    "아이콘": {
-                        "파일": "items/high_class_booster.png",
-                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_class_booster.png"
-                    }
-                },
-                "폭죽 봉선화": {
-                    "수량": 60,
-                    "종류": "식물",
-                    "아이콘": {
-                        "파일": "items/firework_flower.png",
-                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/firework_flower.png"
-                    }
-                },
-                "속죄의 소라": {
-                    "수량": 46,
-                    "종류": "기계부품",
-                    "아이콘": {
-                        "파일": "items/penance_shell.png",
-                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/penance_shell.png"
-                    }
-                },
-                "사계의 단검": {
-                    "수량": 26,
-                    "종류": "특수아이템",
-                    "아이콘": {
-                        "파일": "items/seasonal_dagger.png",
-                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/seasonal_dagger.png"
-                    }
-                },
-                "렌토 와전류": {
-                    "수량": 25,
-                    "종류": "음률 재료",
-                    "아이콘": {
-                        "파일": "items/rento_melody.png",
-                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/rento_melody.png"
-                    }
-                },
-                "아다지오 와전류": {
-                    "수량": 28,
-                    "종류": "음률 재료",
-                    "아이콘": {
-                        "파일": "items/adagio_melody.png",
-                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/adagio_melody.png"
-                    }
-                },
-                "안단테 와전류": {
-                    "수량": 55,
-                    "종류": "음률 재료",
-                    "아이콘": {
-                        "파일": "items/andante_melody.png",
-                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/andante_melody.png"
-                    }
-                },
-                "프레스토 와전류": {
-                    "수량": 67,
-                    "종류": "음률 재료",
-                    "아이콘": {
-                        "파일": "items/presto_melody.png",
-                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/presto_melody.png"
-                    }
-                }
+"페비": {
+    "이미지": {
+        "파일": "characters/feby.png",
+        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/feby.png"
+    },
+    "재료": [
+        {
+            "이름": "클램 코인",
+            "수량": 3052997,
+            "종류": "재화",
+            "아이콘": {
+                "파일": "items/clam_coin.png",
+                "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
             }
-        ]
-    }
+        },
+        {
+            "이름": "특급 공명 촉진제",
+            "수량": 122,
+            "종류": "소모품",
+            "아이콘": {
+                "파일": "items/high_class_booster.png",
+                "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_class_booster.png"
+            }
+        },
+        {
+            "이름": "폭죽 봉선화",
+            "수량": 60,
+            "종류": "식물",
+            "아이콘": {
+                "파일": "items/firework_flower.png",
+                "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/firework_flower.png"
+            }
+        },
+        {
+            "이름": "속죄의 소라",
+            "수량": 46,
+            "종류": "기계부품",
+            "아이콘": {
+                "파일": "items/penance_shell.png",
+                "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/penance_shell.png"
+            }
+        },
+        {
+            "이름": "사계의 단검",
+            "수량": 26,
+            "종류": "특수아이템",
+            "아이콘": {
+                "파일": "items/seasonal_dagger.png",
+                "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/seasonal_dagger.png"
+            }
+        },
+        {
+            "이름": "렌토 와전류",
+            "수량": 25,
+            "종류": "음률 재료",
+            "아이콘": {
+                "파일": "items/rento_melody.png",
+                "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/rento_melody.png"
+            }
+        },
+        {
+            "이름": "아다지오 와전류",
+            "수량": 28,
+            "종류": "음률 재료",
+            "아이콘": {
+                "파일": "items/adagio_melody.png",
+                "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/adagio_melody.png"
+            }
+        },
+        {
+            "이름": "안단테 와전류",
+            "수량": 55,
+            "종류": "음률 재료",
+            "아이콘": {
+                "파일": "items/andante_melody.png",
+                "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/andante_melody.png"
+            }
+        },
+        {
+            "이름": "프레스토 와전류",
+            "수량": 67,
+            "종류": "음률 재료",
+            "아이콘": {
+                "파일": "items/presto_melody.png",
+                "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/presto_melody.png"
+            }
+        }
+    ]
+}
+
 }
 
