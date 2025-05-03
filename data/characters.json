@@ -302,7 +302,78 @@
             }
         }
     ]
-}
+},
+    "샤콘": {
+            "이미지": {
+                "파일": "characters/ciaccona.png",
+                "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/ciaccona.png"
+            },
+            "재료": [
+                {
+                    "이름": "황금 양모",
+                    "수량": 60,
+                    "종류": "식물",
+                    "아이콘": {
+                        "파일": "items/golden_wool.png",
+                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/golden_wool.png"
+                    }
+                },
+                {
+                    "이름": "화염의 용배",
+                    "수량": 46,
+                    "종류": "기계부품",
+                    "아이콘": {
+                        "파일": "items/flame_dragon.png",
+                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/flame_dragon.png"
+                    }
+                },
+                {
+                    "이름": "봄꽃이 만발한 날",
+                    "수량": 26,
+                    "종류": "특수아이템",
+                    "아이콘": {
+                        "파일": "items/spring_bloom.png",
+                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/spring_bloom.png"
+                    }
+                },
+                {
+                    "이름": "헤테르 결정체 연소",
+                    "수량": 25,
+                    "종류": "음률 재료",
+                    "아이콘": {
+                        "파일": "items/hetere_crystal.png",
+                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/hetere_crystal.png"
+                    }
+                },
+                {
+                    "이름": "조추천 결정체 연소",
+                    "수량": 28,
+                    "종류": "음률 재료",
+                    "아이콘": {
+                        "파일": "items/zhuchu_crystal.png",
+                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/zhuchu_crystal.png"
+                    }
+                },
+                {
+                    "이름": "정류 결정체 연소",
+                    "수량": 55,
+                    "종류": "음률 재료",
+                    "아이콘": {
+                        "파일": "items/jinglu_crystal.png",
+                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/jinglu_crystal.png"
+                    }
+                },
+                {
+                    "이름": "고속도 결정체 연소",
+                    "수량": 67,
+                    "종류": "음률 재료",
+                    "아이콘": {
+                        "파일": "items/highspeed_crystal.png",
+                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/highspeed_crystal.png"
+                    }
+                }
+            ]
+        }
 
 }
 
