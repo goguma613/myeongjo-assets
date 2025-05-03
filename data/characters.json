@@ -221,18 +221,6 @@
     },
     "재료": [
         {
-
-            "이름": "클램 코인",
-            "수량": 3052997,
-            "종류": "재화",
-
-            "아이콘": {
-                "파일": "items/clam_coin.png",
-                "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
-            }
-
-        },
-        {
             "이름": "클램 코인",
             "수량": 3052997,
             "종류": "재화",
@@ -321,6 +309,17 @@
                 "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/ciaccona.png"
             },
             "재료": [
+                {
+                    "이름": "클램 코인",
+                    "수량": 3052997,
+                    "종류": "재화",
+        
+                    "아이콘": {
+                        "파일": "items/clam_coin.png",
+                        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
+                    }
+        
+                },
                 {
 
                     "이름": "특급 공명 촉진제",
