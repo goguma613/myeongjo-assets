@@ -173,41 +173,6 @@
                 }
 
             },
-
-            {
-
-                "이름": "마법의 수정",
-
-                "수량": 150,
-
-                "종류": "특수아이템",
-
-                "아이콘": {
-
-                    "파일": "items/magic_crystal.png",
-
-                    "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/magic_crystal.png"
-
-                }
-
-            },
-
-            {
-
-                "이름": "빛의 결정",
-
-                "수량": 75,
-
-                "종류": "광물",
-
-                "아이콘": {
-
-                    "파일": "items/light_crystal.png",
-
-                    "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/light_crystal.png"
-
-                }
-
             }
 
         ]
