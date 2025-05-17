@@ -267,101 +267,100 @@
     ]
   },
   "카르티시아": {
-    "이미지": {
-      "파일": "characters/cartethyia.png",
-      "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/cartethyia.png"
-    },
-    "재료": [
-      {
-        "이름": "봄꽃이 만발한 날",
-        "수량": 26,
-        "종류": "보스 재료",
-        "아이콘": {
-          "파일": "items/spring_bloom.png",
-          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/spring_bloom.png"
-        }
-      },
-      {
-        "이름": "이성질화 금속 액적",
-        "수량": 67,
-        "종류": "스킬 재료",
-        "아이콘": {
-          "파일": "items/isomerized_metal_droplet.png",
-          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/isomerized_metal_droplet.png"
-        }
-      },
-      {
-        "이름": "분극 금속 액적",
-        "수량": 55,
-        "종류": "스킬 재료",
-        "아이콘": {
-          "파일": "items/polarized_metal_droplet.png",
-          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/polarized_metal_droplet.png"
-        }
-      },
-      {
-        "이름": "활성 금속 액적",
-        "수량": 28,
-        "종류": "스킬 재료",
-        "아이콘": {
-          "파일": "items/active_metal_droplet.png",
-          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/active_metal_droplet.png"
-        }
-      },
-      {
-        "이름": "비활성 금속 액적",
-        "수량": 25,
-        "종류": "스킬 재료",
-        "아이콘": {
-          "파일": "items/inactive_metal_droplet.png",
-          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/inactive_metal_droplet.png"
-        }
-      },
-      {
-        "이름": "전주파수 침식 선형 구조물",
-        "수량": 57,
-        "종류": "드랍 재료",
-        "아이콘": {
-          "파일": "items/full_frequency_erosion_linear_structure.png",
-          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/full_frequency_erosion_linear_structure.png"
-        }
-      },
-      {
-        "이름": "고주파수 침식 선형 구조물",
-        "수량": 40,
-        "종류": "드랍 재료",
-        "아이콘": {
-          "파일": "items/high_frequency_erosion_linear_structure.png",
-          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_frequency_erosion_linear_structure.png"
-        }
-      },
-      {
-        "이름": "중주파수 침식 선형 구조물",
-        "수량": 28,
-        "종류": "드랍 재료",
-        "아이콘": {
-          "파일": "items/mid_frequency_erosion_linear_structure.png",
-          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/mid_frequency_erosion_linear_structure.png"
-        }
-      },
-      {
-        "이름": "저주파수 침식 선형 구조물",
-        "수량": 25,
-        "종류": "드랍 재료",
-        "아이콘": {
-          "파일": "items/low_frequency_erosion_linear_structure.png",
-          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/low_frequency_erosion_linear_structure.png"
-        }
-      },
-      {
-        "이름": "클램 코인",
-        "수량": 2030000,
-        "종류": "재화",
-        "아이콘": {
-          "파일": "items/clam_coin.png",
-          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
-        }
+  "이미지": {
+    "파일": "characters/cartethyia.png",
+    "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/cartethyia.png"
+  },
+  "재료": [
+    {
+      "이름": "클램 코인",
+      "수량": 2030000,
+      "종류": "재화",
+      "아이콘": {
+        "파일": "items/clam_coin.png",
+        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
       }
-    ]
-  }
+    },
+    {
+      "이름": "봄꽃이 만발한 날",
+      "수량": 26,
+      "종류": "보스 재료",
+      "아이콘": {
+        "파일": "items/spring_bloom.png",
+        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/spring_bloom.png"
+      }
+    },
+    {
+      "이름": "이성질화 금속 액적",
+      "수량": 67,
+      "종류": "스킬 재료",
+      "아이콘": {
+        "파일": "items/isomerized_metal_droplet.png",
+        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/isomerized_metal_droplet.png"
+      }
+    },
+    {
+      "이름": "분극 금속 액적",
+      "수량": 55,
+      "종류": "스킬 재료",
+      "아이콘": {
+        "파일": "items/polarized_metal_droplet.png",
+        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/polarized_metal_droplet.png"
+      }
+    },
+    {
+      "이름": "활성 금속 액적",
+      "수량": 28,
+      "종류": "스킬 재료",
+      "아이콘": {
+        "파일": "items/active_metal_droplet.png",
+        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/active_metal_droplet.png"
+      }
+    },
+    {
+      "이름": "비활성 금속 액적",
+      "수량": 25,
+      "종류": "스킬 재료",
+      "아이콘": {
+        "파일": "items/inactive_metal_droplet.png",
+        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/inactive_metal_droplet.png"
+      }
+    },
+    {
+      "이름": "전주파수 침식 선형 구조물",
+      "수량": 57,
+      "종류": "드랍 재료",
+      "아이콘": {
+        "파일": "items/full_frequency_erosion_linear_structure.png",
+        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/full_frequency_erosion_linear_structure.png"
+      }
+    },
+    {
+      "이름": "고주파수 침식 선형 구조물",
+      "수량": 40,
+      "종류": "드랍 재료",
+      "아이콘": {
+        "파일": "items/high_frequency_erosion_linear_structure.png",
+        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_frequency_erosion_linear_structure.png"
+      }
+    },
+    {
+      "이름": "중주파수 침식 선형 구조물",
+      "수량": 28,
+      "종류": "드랍 재료",
+      "아이콘": {
+        "파일": "items/mid_frequency_erosion_linear_structure.png",
+        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/mid_frequency_erosion_linear_structure.png"
+      }
+    },
+    {
+      "이름": "저주파수 침식 선형 구조물",
+      "수량": 25,
+      "종류": "드랍 재료",
+      "아이콘": {
+        "파일": "items/low_frequency_erosion_linear_structure.png",
+        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/low_frequency_erosion_linear_structure.png"
+      }
+    }
+  ]
 }
