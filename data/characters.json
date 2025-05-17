@@ -1,366 +1,367 @@
 {
-    "젠니": {
-      "이미지": {
-        "파일": "characters/zenny.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/zenny.png"
-      },
-      "재료": [
-        {
-          "이름": "클램 코인",
-          "수량": 3052997,
-          "종류": "재화",
-          "아이콘": {
-            "파일": "items/clam_coin.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
-          }
-        },
-        {
-          "이름": "특급 공명 촉진제",
-          "수량": 122,
-          "종류": "소모품",
-          "아이콘": {
-            "파일": "items/high_class_booster.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_class_booster.png"
-          }
-        },
-        {
-          "이름": "검향포꽃",
-          "수량": 60,
-          "종류": "식물",
-          "아이콘": {
-            "파일": "items/lavender.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/lavender.png"
-          }
-        },
-        {
-          "이름": "백금 기계의 심장",
-          "수량": 46,
-          "종류": "기계부품",
-          "아이콘": {
-            "파일": "items/platinum_heart.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/platinum_heart.png"
-          }
-        },
-        {
-          "이름": "저편 세계의 눈빛",
-          "수량": 26,
-          "종류": "특수아이템",
-          "아이콘": {
-            "파일": "items/otherworld_eye.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/otherworld_eye.png"
-          }
-        },
-        {
-          "이름": "음률의 배주",
-          "수량": 25,
-          "종류": "음률 재료",
-          "아이콘": {
-            "파일": "items/melody_seed.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/melody_seed.png"
-          }
-        },
-        {
-          "이름": "음률의 새싹",
-          "수량": 28,
-          "종류": "음률 재료",
-          "아이콘": {
-            "파일": "items/melody_sprout.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/melody_sprout.png"
-          }
-        },
-        {
-          "이름": "음률의 새잎",
-          "수량": 55,
-          "종류": "음률 재료",
-          "아이콘": {
-            "파일": "items/melody_leaf.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/melody_leaf.png"
-          }
-        },
-        {
-          "이름": "음률의 꽃망울",
-          "수량": 67,
-          "종류": "음률 재료",
-          "아이콘": {
-            "파일": "items/melody_blossom.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/melody_blossom.png"
-          }
-        }
-      ]
+  "젠니": {
+    "이미지": {
+      "파일": "characters/zenny.png",
+      "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/zenny.png"
     },
-    "페비": {
-      "이미지": {
-        "파일": "characters/feby.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/feby.png"
-      },
-      "재료": [
-        {
-          "이름": "클램 코인",
-          "수량": 3052997,
-          "종류": "재화",
-          "아이콘": {
-            "파일": "items/clam_coin.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
-          }
-        },
-        {
-          "이름": "특급 공명 촉진제",
-          "수량": 122,
-          "종류": "소모품",
-          "아이콘": {
-            "파일": "items/high_class_booster.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_class_booster.png"
-          }
-        },
-        {
-          "이름": "폭죽 봉선화",
-          "수량": 60,
-          "종류": "식물",
-          "아이콘": {
-            "파일": "items/firework_flower.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/firework_flower.png"
-          }
-        },
-        {
-          "이름": "속죄의 소라",
-          "수량": 46,
-          "종류": "기계부품",
-          "아이콘": {
-            "파일": "items/penance_shell.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/penance_shell.png"
-          }
-        },
-        {
-          "이름": "사계의 단검",
-          "수량": 26,
-          "종류": "특수아이템",
-          "아이콘": {
-            "파일": "items/seasonal_dagger.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/seasonal_dagger.png"
-          }
-        },
-        {
-          "이름": "렌토 와전류",
-          "수량": 25,
-          "종류": "음률 재료",
-          "아이콘": {
-            "파일": "items/rento_melody.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/rento_melody.png"
-          }
-        },
-        {
-          "이름": "아다지오 와전류",
-          "수량": 28,
-          "종류": "음률 재료",
-          "아이콘": {
-            "파일": "items/adagio_melody.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/adagio_melody.png"
-          }
-        },
-        {
-          "이름": "안단테 와전류",
-          "수량": 55,
-          "종류": "음률 재료",
-          "아이콘": {
-            "파일": "items/andante_melody.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/andante_melody.png"
-          }
-        },
-        {
-          "이름": "프레스토 와전류",
-          "수량": 67,
-          "종류": "음률 재료",
-          "아이콘": {
-            "파일": "items/presto_melody.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/presto_melody.png"
-          }
+    "재료": [
+      {
+        "이름": "클램 코인",
+        "수량": 3052997,
+        "종류": "재화",
+        "아이콘": {
+          "파일": "items/clam_coin.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
         }
-      ]
-    },
-    "샤콘": {
-      "이미지": {
-        "파일": "characters/ciaccona.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/ciaccona.png"
       },
-      "재료": [
-        {
-          "이름": "클램 코인",
-          "수량": 3052997,
-          "종류": "재화",
-          "아이콘": {
-            "파일": "items/clam_coin.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
-          }
-        },
-        {
-          "이름": "특급 공명 촉진제",
-          "수량": 122,
-          "종류": "소모품",
-          "아이콘": {
-            "파일": "items/high_class_booster.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_class_booster.png"
-          }
-        },
-        {
-          "이름": "황금 양모",
-          "수량": 60,
-          "종류": "식물",
-          "아이콘": {
-            "파일": "items/golden_wool.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/golden_wool.png"
-          }
-        },
-        {
-          "이름": "화염의 용배",
-          "수량": 46,
-          "종류": "기계부품",
-          "아이콘": {
-            "파일": "items/flame_dragon.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/flame_dragon.png"
-          }
-        },
-        {
-          "이름": "봄꽃이 만발한 날",
-          "수량": 26,
-          "종류": "특수아이템",
-          "아이콘": {
-            "파일": "items/spring_bloom.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/spring_bloom.png"
-          }
-        },
-        {
-          "이름": "헤테르 결정체 연소",
-          "수량": 25,
-          "종류": "음률 재료",
-          "아이콘": {
-            "파일": "items/hetere_crystal.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/hetere_crystal.png"
-          }
-        },
-        {
-          "이름": "조추천 결정체 연소",
-          "수량": 28,
-          "종류": "음률 재료",
-          "아이콘": {
-            "파일": "items/zhuchu_crystal.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/zhuchu_crystal.png"
-          }
-        },
-        {
-          "이름": "정류 결정체 연소",
-          "수량": 55,
-          "종류": "음률 재료",
-          "아이콘": {
-            "파일": "items/jinglu_crystal.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/jinglu_crystal.png"
-          }
-        },
-        {
-          "이름": "고속도 결정체 연소",
-          "수량": 67,
-          "종류": "음률 재료",
-          "아이콘": {
-            "파일": "items/highspeed_crystal.png",
-            "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/highspeed_crystal.png"
-          }
+      {
+        "이름": "특급 공명 촉진제",
+        "수량": 122,
+        "종류": "소모품",
+        "아이콘": {
+          "파일": "items/high_class_booster.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_class_booster.png"
         }
-      ]
-    },
-      "카르티시아": {
-  "이미지": {
-    "파일": "characters/Cartethyia.png",
-    "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/Cartethyia.png"
+      },
+      {
+        "이름": "검향포꽃",
+        "수량": 60,
+        "종류": "식물",
+        "아이콘": {
+          "파일": "items/lavender.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/lavender.png"
+        }
+      },
+      {
+        "이름": "백금 기계의 심장",
+        "수량": 46,
+        "종류": "기계부품",
+        "아이콘": {
+          "파일": "items/platinum_heart.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/platinum_heart.png"
+        }
+      },
+      {
+        "이름": "저편 세계의 눈빛",
+        "수량": 26,
+        "종류": "특수아이템",
+        "아이콘": {
+          "파일": "items/otherworld_eye.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/otherworld_eye.png"
+        }
+      },
+      {
+        "이름": "음률의 배주",
+        "수량": 25,
+        "종류": "음률 재료",
+        "아이콘": {
+          "파일": "items/melody_seed.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/melody_seed.png"
+        }
+      },
+      {
+        "이름": "음률의 새싹",
+        "수량": 28,
+        "종류": "음률 재료",
+        "아이콘": {
+          "파일": "items/melody_sprout.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/melody_sprout.png"
+        }
+      },
+      {
+        "이름": "음률의 새잎",
+        "수량": 55,
+        "종류": "음률 재료",
+        "아이콘": {
+          "파일": "items/melody_leaf.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/melody_leaf.png"
+        }
+      },
+      {
+        "이름": "음률의 꽃망울",
+        "수량": 67,
+        "종류": "음률 재료",
+        "아이콘": {
+          "파일": "items/melody_blossom.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/melody_blossom.png"
+        }
+      }
+    ]
   },
-  "재료": [
-    {
-      "이름": "봄꽃이 만발하던 날",
-      "수량": 26,
-      "종류": "보스 재료",
-      "아이콘": {
-        "파일": "items/spring_bloom.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/spring_bloom.png"
-      }
+  "페비": {
+    "이미지": {
+      "파일": "characters/feby.png",
+      "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/feby.png"
     },
-    {
-      "이름": "이성질화 금속 액적",
-      "수량": 67,
-      "종류": "스킬 재료",
-      "아이콘": {
-        "파일": "items/isomerized_metal_droplet.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/isomerized_metal_droplet.png"
+    "재료": [
+      {
+        "이름": "클램 코인",
+        "수량": 3052997,
+        "종류": "재화",
+        "아이콘": {
+          "파일": "items/clam_coin.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
+        }
+      },
+      {
+        "이름": "특급 공명 촉진제",
+        "수량": 122,
+        "종류": "소모품",
+        "아이콘": {
+          "파일": "items/high_class_booster.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_class_booster.png"
+        }
+      },
+      {
+        "이름": "폭죽 봉선화",
+        "수량": 60,
+        "종류": "식물",
+        "아이콘": {
+          "파일": "items/firework_flower.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/firework_flower.png"
+        }
+      },
+      {
+        "이름": "속죄의 소라",
+        "수량": 46,
+        "종류": "기계부품",
+        "아이콘": {
+          "파일": "items/penance_shell.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/penance_shell.png"
+        }
+      },
+      {
+        "이름": "사계의 단검",
+        "수량": 26,
+        "종류": "특수아이템",
+        "아이콘": {
+          "파일": "items/seasonal_dagger.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/seasonal_dagger.png"
+        }
+      },
+      {
+        "이름": "렌토 와전류",
+        "수량": 25,
+        "종류": "음률 재료",
+        "아이콘": {
+          "파일": "items/rento_melody.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/rento_melody.png"
+        }
+      },
+      {
+        "이름": "아다지오 와전류",
+        "수량": 28,
+        "종류": "음률 재료",
+        "아이콘": {
+          "파일": "items/adagio_melody.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/adagio_melody.png"
+        }
+      },
+      {
+        "이름": "안단테 와전류",
+        "수량": 55,
+        "종류": "음률 재료",
+        "아이콘": {
+          "파일": "items/andante_melody.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/andante_melody.png"
+        }
+      },
+      {
+        "이름": "프레스토 와전류",
+        "수량": 67,
+        "종류": "음률 재료",
+        "아이콘": {
+          "파일": "items/presto_melody.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/presto_melody.png"
+        }
       }
+    ]
+  },
+  "샤콘": {
+    "이미지": {
+      "파일": "characters/ciaccona.png",
+      "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/ciaccona.png"
     },
-    {
-      "이름": "분극 금속 액적",
-      "수량": 55,
-      "종류": "스킬 재료",
-      "아이콘": {
-        "파일": "items/polarized_metal_droplet.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/polarized_metal_droplet.png"
+    "재료": [
+      {
+        "이름": "클램 코인",
+        "수량": 3052997,
+        "종류": "재화",
+        "아이콘": {
+          "파일": "items/clam_coin.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
+        }
+      },
+      {
+        "이름": "특급 공명 촉진제",
+        "수량": 122,
+        "종류": "소모품",
+        "아이콘": {
+          "파일": "items/high_class_booster.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_class_booster.png"
+        }
+      },
+      {
+        "이름": "황금 양모",
+        "수량": 60,
+        "종류": "식물",
+        "아이콘": {
+          "파일": "items/golden_wool.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/golden_wool.png"
+        }
+      },
+      {
+        "이름": "화염의 용배",
+        "수량": 46,
+        "종류": "기계부품",
+        "아이콘": {
+          "파일": "items/flame_dragon.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/flame_dragon.png"
+        }
+      },
+      {
+        "이름": "봄꽃이 만발한 날",
+        "수량": 26,
+        "종류": "특수아이템",
+        "아이콘": {
+          "파일": "items/spring_bloom.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/spring_bloom.png"
+        }
+      },
+      {
+        "이름": "헤테르 결정체 연소",
+        "수량": 25,
+        "종류": "음률 재료",
+        "아이콘": {
+          "파일": "items/hetere_crystal.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/hetere_crystal.png"
+        }
+      },
+      {
+        "이름": "조추천 결정체 연소",
+        "수량": 28,
+        "종류": "음률 재료",
+        "아이콘": {
+          "파일": "items/zhuchu_crystal.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/zhuchu_crystal.png"
+        }
+      },
+      {
+        "이름": "정류 결정체 연소",
+        "수량": 55,
+        "종류": "음률 재료",
+        "아이콘": {
+          "파일": "items/jinglu_crystal.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/jinglu_crystal.png"
+        }
+      },
+      {
+        "이름": "고속도 결정체 연소",
+        "수량": 67,
+        "종류": "음률 재료",
+        "아이콘": {
+          "파일": "items/highspeed_crystal.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/highspeed_crystal.png"
+        }
       }
+    ]
+  },
+  "카르티시아": {
+    "이미지": {
+      "파일": "characters/Cartethyia.png",
+      "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/characters/Cartethyia.png"
     },
-    {
-      "이름": "활성 금속 액적",
-      "수량": 28,
-      "종류": "스킬 재료",
-      "아이콘": {
-        "파일": "items/active_metal_droplet.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/active_metal_droplet.png"
+    "재료": [
+      {
+        "이름": "봄꽃이 만발한 날",
+        "수량": 26,
+        "종류": "보스 재료",
+        "아이콘": {
+          "파일": "items/spring_bloom.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/spring_bloom.png"
+        }
+      },
+      {
+        "이름": "이성질화 금属 액적",
+        "수량": 67,
+        "종류": "스킬 재료",
+        "아이콘": {
+          "파일": "items/isomerized_metal_droplet.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/isomerized_metal_droplet.png"
+        }
+      },
+      {
+        "이름": "분극 금속 액적",
+        "수량": 55,
+        "종류": "스킬 재료",
+        "아이콘": {
+          "파일": "items/polarized_metal_droplet.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/polarized_metal_droplet.png"
+        }
+      },
+      {
+        "이름": "활성 금속 액적",
+        "수량": 28,
+        "종류": "스킬 재료",
+        "아이콘": {
+          "파일": "items/active_metal_droplet.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/active_metal_droplet.png"
+        }
+      },
+      {
+        "이름": "비활성 금属 액적",
+        "수량": 25,
+        "종류": "스킬 재료",
+        "아이콘": {
+          "파일": "items/inactive_metal_droplet.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/inactive_metal_droplet.png"
+        }
+      },
+      {
+        "이름": "전주파수 침식 선형 구조물",
+        "수량": 57,
+        "종류": "드랍 재료",
+        "아이콘": {
+          "파일": "items/full_frequency_erosion_linear_structure.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/full_frequency_erosion_linear_structure.png"
+        }
+      },
+      {
+        "이름": "고주파수 침식 선형 구조물",
+        "수량": 40,
+        "종류": "드랍 재료",
+        "아이콘": {
+          "파일": "items/high_frequency_erosion_linear_structure.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_frequency_erosion_linear_structure.png"
+        }
+      },
+      {
+        "이름": "중주파수 침식 선형 구조물",
+        "수량": 28,
+        "종류": "드랍 재료",
+        "아이콘": {
+          "파일": "items/mid_frequency_erosion_linear_structure.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/mid_frequency_erosion_linear_structure.png"
+        }
+      },
+      {
+        "이름": "저주파수 침식 선형 구조물",
+        "수량": 25,
+        "종류": "드랍 재료",
+        "아이콘": {
+          "파일": "items/low_frequency_erosion_linear_structure.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/low_frequency_erosion_linear_structure.png"
+        }
+      },
+      {
+        "이름": "클램 코인",
+        "수량": 2030000,
+        "종류": "재화",
+        "아이콘": {
+          "파일": "items/clam_coin.png",
+          "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
+        }
       }
-    },
-    {
-      "이름": "비활성 금속 액적",
-      "수량": 25,
-      "종류": "스킬 재료",
-      "아이콘": {
-        "파일": "items/inactive_metal_droplet.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/inactive_metal_droplet.png"
-      }
-    },
-    {
-      "이름": "전주파수 침식 선형 구조물",
-      "수량": 57,
-      "종류": "드랍 재료",
-      "아이콘": {
-        "파일": "items/full_frequency_erosion_linear_structure.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/full_frequency_erosion_linear_structure.png"
-      }
-    },
-    {
-      "이름": "고주파수 침식 선형 구조물",
-      "수량": 40,
-      "종류": "드랍 재료",
-      "아이콘": {
-        "파일": "items/high_frequency_erosion_linear_structure.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/high_frequency_erosion_linear_structure.png"
-      }
-    },
-    {
-      "이름": "중주파수 침식 선형 구조물",
-      "수량": 28,
-      "종류": "드랍 재료",
-      "아이콘": {
-        "파일": "items/mid_frequency_erosion_linear_structure.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/mid_frequency_erosion_linear_structure.png"
-      }
-    },
-    {
-      "이름": "저주파수 침식 선형 구조물",
-      "수량": 25,
-      "종류": "드랍 재료",
-      "아이콘": {
-        "파일": "items/low_frequency_erosion_linear_structure.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/low_frequency_erosion_linear_structure.png"
-      }
-    },
-    {
-      "이름": "클램 코인",
-      "수량": 2030000,
-      "종류": "재화",
-      "아이콘": {
-        "파일": "items/clam_coin.png",
-        "url": "https://raw.githubusercontent.com/goguma613/myeongjo-assets/main/resources/images/items/clam_coin.png"
-      }
-    }
-  ]
+    ]
+  }
 }
